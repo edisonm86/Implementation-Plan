@@ -113,7 +113,7 @@ See Implementation Plan full report under 'Files'
 
 ## 📁 Files
 
-- [Implementation Plan.pdf](https://github.com/user-attachments/files/21533142/Implementation.Plan.pdf): Full report
+- [Implementation Plan.pdf](Implementation Plan.pdf): Full report
 
 ---
 
