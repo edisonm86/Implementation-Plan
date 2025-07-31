@@ -90,7 +90,7 @@ Ongoing annual costs: ~$300,000–$400,000
 
 ## 🖥️ Future-State Architecture (To-Be)
 
-![To-Be Architecture Placeholder](network-diagram.png)
+See Implementation Plan full report under 'Files'
 
 - Segmented DMZ, Finance, HR, and Admin zones
 - Enforced RBAC and VPN-only remote access
@@ -113,8 +113,7 @@ Ongoing annual costs: ~$300,000–$400,000
 
 ## 📁 Files
 
-- `Project_2_Implementation_Plan.pdf`: Full report
-- `network-diagram.png`: "To-Be" architecture design
+- [Implementation Plan.pdf](https://github.com/user-attachments/files/21533142/Implementation.Plan.pdf): Full report
 
 ---
 
