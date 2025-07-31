@@ -117,12 +117,12 @@ See Implementation Plan full report under 'Files'
 
 ---
 
+## 📝 Author
+
 **Edison Maniwang**  
 B.S. in Cybersecurity Management & Policy  
-[LinkedIn](https://www.linkedin.com/in/edisonmaniwang)  
-[Security+ Certificate](https://www.credly.com/badges/6870d092-d469-4c43-a4d2-5378cd4adf0a/linked_in_profile)
+[LinkedIn](https://www.linkedin.com/in/edisonmaniwang) | [Credly Security+](https://www.credly.com/badges/6870d092-d469-4c43-a4d2-5378cd4adf0a/linked_in_profile)
 
 ---
 
-> _All organizations and scenarios presented in this project are fictional and used solely for academic purposes._
-
+> _This project is an academic simulation. All scenarios, companies, and names are fictional unless otherwise cited._
