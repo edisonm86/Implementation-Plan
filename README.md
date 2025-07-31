@@ -113,7 +113,7 @@ See Implementation Plan full report under 'Files'
 
 ## 📁 Files
 
-- [Implementation Plan.pdf](Implementation Plan.pdf): Full report
+- [Implementation Plan.pdf](https://github.com/edisonm86/Implementation-Plan/blob/92d5cacc665fda52c46af642b2aebc8ead62088a/Implementation%20Plan.pdf): Full report
 
 ---
 
